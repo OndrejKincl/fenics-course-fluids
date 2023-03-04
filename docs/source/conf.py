@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'fenics-course-fluids'
+project = 'FEniCS fluid tutorial'
 copyright = '2023, Ondřej Kincl'
 author = 'Ondřej Kincl'
 
@@ -31,6 +31,9 @@ release = '2023.0.1'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'nbsphinx',
+    'sphinx.ext.mathjax',
+    'sphinxcontrib.bibtex'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
