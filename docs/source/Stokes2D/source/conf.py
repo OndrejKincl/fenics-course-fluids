@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'fenics-course-fluids'
-copyright = '2023, Ondřej Kincl'
-author = 'Ondřej Kincl'
+copyright = '2023, Ondrej Kincl'
+author = 'Ondrej Kincl'
 
 # The full version, including alpha/beta/rc tags
 release = '2023.0.1'
