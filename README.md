@@ -1,2 +1,2 @@
 # fenics-course-fluids
-Docs for a FEniCS course on fluids organized by SIAM SC Prague  
+Docs for a FEniCS course on fluids organized by [SIAM SC Prague](https://siam.cuni.cz/). 
