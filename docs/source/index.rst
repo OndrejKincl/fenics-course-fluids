@@ -11,3 +11,4 @@ Welcome to FEniCS fluid tutorial's documentation!
    :caption: Contents:
 
    Stokes2D/Stokes2D
+   Stokes3D/Stokes3D
