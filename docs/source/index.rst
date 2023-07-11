@@ -13,3 +13,4 @@ Welcome to FEniCS fluid tutorial's documentation!
    Stokes2D/Stokes2D
    Stokes3D/Stokes3D
    levelset/levelset
+   OldroydB/OldroydB_Couette
