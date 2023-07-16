@@ -19,7 +19,7 @@
 
 project = 'FEniCS fluid tutorial'
 copyright = '2023, Ondřej Kincl'
-author = 'Jiří Malík, Ondřej Kincl, Alena Jarolímová, Jana Trdlicová, Jakub Fara, Karel Tůma'
+author = 'Malík, Kincl, Jarolímová, Trdlicová, Fara, Tůma'
 
 # The full version, including alpha/beta/rc tags
 release = '2023.0.1'
