@@ -10,9 +10,10 @@ Welcome to FEniCS fluid tutorial's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   HeatEquation1D/wire1d.ipynb
    Stokes2D/Stokes2D
    Stokes3D/Stokes3D
    NavierStokes2D/NavierStokes2D
    NavierStokes3D/NavierStokes3D
-   levelset/levelset
+   levelset/rayleigh_taylor
    OldroydB/OldroydB_Couette
