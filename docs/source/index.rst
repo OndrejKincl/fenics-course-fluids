@@ -17,3 +17,4 @@ Welcome to FEniCS fluid tutorial's documentation!
    NavierStokes3D/NavierStokes3D
    levelset/rayleigh_taylor
    OldroydB/OldroydB_Couette
+   OldroydB/OldroydB_ALE
